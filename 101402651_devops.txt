@@ -1,18 +1,5 @@
-Why this course matters
-This course is designed to better prepare professionals entering the IT field.
-Specifically, a field where servers, web apps and infrastructure will be core to
-business needs. COMP 3104 will provide a hands-on experience through the
-implementation of tried, tested and true DevOps technologies.
+This course is designed to equip IT professionals with the skills needed in roles where managing servers, web applications, and infrastructure is critical to business operations. Through COMP 3104, students gain practical experience with essential DevOps tools and technologies.
 
-We will also examine ways in which companies have either lost or saved fortunes
-with DevOps strategies. Learning about Amazon Web Services, Ansible, Docker and
-Travis CI, you will become familiar with end-to-end deployment processes. You will
-also have your very own build pipeline which will allow you to push changes to a
-web app in the wild at the stroke of a key.
+We’ll explore real-world examples of how businesses have succeeded or failed with DevOps strategies. By learning tools like Amazon Web Services, Ansible, Docker, and Travis CI, you’ll gain familiarity with full deployment processes. You'll also develop your own build pipeline, enabling you to push updates to live web applications effortlessly.
 
-Using DevOps practices effectively will allow for a process predicated on ease to
-ship code to Production servers, apply hot-fixes, catch errors before they produce
-some sort of unintended behavior and keep transparency & communication
-heightened across all teams. Looking at the software development lifecycle
-through the lens of a DevOps Engineer will produce a more informed and qualified
-developer.
+Effectively using DevOps practices streamlines the process of deploying code to production, applying hot-fixes, and identifying issues early to prevent unwanted behavior. It also promotes transparency and communication across teams. Viewing the software development lifecycle from a DevOps perspective helps develop more knowledgeable and capable engineers.

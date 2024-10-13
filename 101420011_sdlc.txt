@@ -1,0 +1,2 @@
+
+Learning DevOps in the SDLC enhances collaboration between development and operations teams, streamlining workflows. It enables faster, more reliable releases by automating processes and ensuring continuous integration and delivery. DevOps also facilitates continuous feedback, improving product quality and reducing time-to-market.

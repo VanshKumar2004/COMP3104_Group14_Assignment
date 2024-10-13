@@ -1,1 +1,7 @@
-COMP 3104 is part of the advanced curriculum and typically taken in Semester 5.To enroll, a student must have completed courses like UNIX Essentials (COMP 3044). This course, along with others such as Mobile Application Development and Applied Data Science, prepares students for a wide range of careers in software development, DevOps engineering, and IT operations​.
+COMP 3104 is a key part of the advanced curriculum, usually taken by students in Semester 5. Enrollment requires the completion of prerequisite courses such as UNIX Essentials (COMP 3044), ensuring that students have a solid foundation before tackling more complex topics. This course, together with others like Mobile Application Development and Applied Data Science, offers a comprehensive learning experience that prepares students for a wide range of career paths. Whether aiming to work in software development, DevOps engineering, or IT operations, students gain the skills needed to thrive in fast-paced, technology-driven industries. Through hands-on projects and real-world applications, COMP 3104 helps bridge the gap between academic learning and professional expertise.
+
+
+
+
+
+

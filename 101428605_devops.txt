@@ -1,5 +1,21 @@
-COMP 3104 (DevOps) is a course designed to equip students with the skills and knowledge necessary to streamline the software development and deployment process by integrating development and IT operations.
-It covers key DevOps principles, such as continuous integration, continuous delivery, automation, and infrastructure as code. 
-Throughout the course, students learn how to use essential tools like Git, Docker, Jenkins, Kubernetes, and monitoring solutions like Prometheus and the ELK Stack.
-With a strong emphasis on hands-on labs and projects, students are guided through the process of setting up CI/CD pipelines, containerizing applications, and automating infrastructure, all while ensuring security and scalability. 
-By the end of the course, students will be well-versed in creating efficient, reliable, and secure software delivery pipelines, contributing to faster release cycles and improved collaboration between development and operations teams.
+COMP 3104 (DevOps) is a course designed to equip students with the skills and knowledge necessary to streamline the software development and deployment process by integrating development and IT operations. It covers key DevOps principles, such as continuous integration, continuous delivery, automation, and infrastructure as code (IaC).
+
+Throughout the course, students learn how to use essential tools like Git, Docker, Jenkins, Kubernetes, and monitoring solutions like Prometheus and the ELK Stack (Elasticsearch, Logstash, and Kibana). The course provides a comprehensive understanding of version control, container orchestration, and logging/monitoring frameworks, all critical components of modern software development.
+
+Course Highlights:
+
+Hands-On Labs and Projects: With a strong emphasis on practical experience, students engage in hands-on labs and real-world projects. They are guided through the process of setting up CI/CD pipelines, containerizing applications, and automating infrastructure deployment, all while ensuring security and scalability.
+
+DevOps Culture and Practices: Students explore the cultural aspects of DevOps, including collaboration between cross-functional teams and the importance of communication and feedback loops in improving software quality and delivery speed.
+
+Security in DevOps (DevSecOps): The course also introduces the concept of DevSecOps, emphasizing the integration of security practices into the DevOps pipeline. Students learn how to implement security measures at every stage of the development lifecycle, ensuring that applications are not only efficient but also secure.
+
+Cloud Integration: Students gain insight into deploying applications on cloud platforms such as AWS, Azure, or Google Cloud, learning how to leverage cloud services for scalability, reliability, and cost-effectiveness.
+
+Agile Methodologies: The course highlights the relationship between DevOps and agile methodologies, teaching students how to adapt to changing requirements and deliver value incrementally.
+
+Case Studies and Best Practices: Students analyze real-world case studies to understand how leading organizations implement DevOps practices, focusing on best practices that lead to successful transformations.
+
+Collaboration Tools: The course covers tools and platforms that facilitate collaboration and communication within teams, such as Slack, Trello, or Jira, enhancing project management and team dynamics.
+
+By the end of the course, students will be well-versed in creating efficient, reliable, and secure software delivery pipelines, contributing to faster release cycles and improved collaboration between development and operations teams. They will also be prepared to take on roles in DevOps, cloud engineering, or site reliability engineering (SRE), equipped with the skills necessary to thrive in a rapidly evolving tech landscape.

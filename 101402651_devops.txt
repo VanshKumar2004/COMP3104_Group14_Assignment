@@ -3,3 +3,4 @@ This course is designed to equip IT professionals with the skills needed in role
 We’ll explore real-world examples of how businesses have succeeded or failed with DevOps strategies. By learning tools like Amazon Web Services, Ansible, Docker, and Travis CI, you’ll gain familiarity with full deployment processes. You'll also develop your own build pipeline, enabling you to push updates to live web applications effortlessly.
 
 Effectively using DevOps practices streamlines the process of deploying code to production, applying hot-fixes, and identifying issues early to prevent unwanted behavior. It also promotes transparency and communication across teams. Viewing the software development lifecycle from a DevOps perspective helps develop more knowledgeable and capable engineers.
+
